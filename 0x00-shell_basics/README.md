@@ -1,2 +1,1 @@
-#!/bin/bash 0-current_working_directory
-why?
+a script that prints the absolute path name of the current working directory
