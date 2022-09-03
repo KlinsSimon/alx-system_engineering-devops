@@ -1,1 +1,1 @@
-script that changes the working directory to the previous one
+display curren directory in long format and user ID
