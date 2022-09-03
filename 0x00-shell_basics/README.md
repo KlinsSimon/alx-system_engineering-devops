@@ -1,1 +1,1 @@
-deleting the directory my_first_directory thats in /tmp/
+deleting my first directory
