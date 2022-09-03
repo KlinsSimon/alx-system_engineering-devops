@@ -1,1 +1,1 @@
-script that lis all files in long format
+script that prints the type of the file named iamafile in the /tmp/ directory
