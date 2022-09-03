@@ -1,1 +1,1 @@
-display curren directory in long format and user ID
+Create a script that creates a directory named my_first_directory in the /tmp/ directory.
